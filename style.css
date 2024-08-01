@@ -4,13 +4,16 @@ p{
     background-color:rgb(21, 151, 168);
 }
 h1{
-    color: black;
+    color: rgb(240, 161, 161);
     font-size: 50px;
 }
-img{
-    width: 600px;
+  .img_gym{
+    width: 400px;
     height: 400px;
+    border-radius: 50%;
+    object-fit: cover;
     
+
 }
 nav > ul  {
     margin: 0;
